@@ -1,15 +1,26 @@
-# .NET 5 Web API & Entity Framework Crash Course
+<h1 align="center">
+  <a href="https://www.udemy.com/course/aspnet-web-api-2-hands-on/">
+    <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.png" alt="Udemy">
+  </a>
+  <p align="center">.NET 5 Web API & Entity Framework Crash Course</p>
+</h1>
+<p align="center">
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO%20[POR%20ENQUANTO]&color=GREEN&style=for-the-badge"/>
+</p>
 
-<details>
-  <b><i> :mortar_board: What Was Learned: :mortar_board: </i></b>
-  <br>
-  <ul>
-    <li>🛠️ Build RESTful web services with .NET 5 Web API</li>
-    <li>:page_with_curl: Object-relational mapping with Entity Framework</li>
-    <li>🗃️ Save data persistently in a SQL Server database</li>
-    <li>:bookmark_tabs: Entity Framework Code-First Migrations</li>
-    <li>:telephone_receiver: Use Postman to test your web service calls</li>
-    <li>:books: All CRUD operations (Create, Read, Update, Delete)</li>
-    <li>:computer: HTTP Request Methods GET, POST, PUT, DELETE</li>
-  </ul>
-</details>
+## :mortar_board: What Was Learned: :mortar_board:
+- 🛠️ Build RESTful web services with .NET 5 Web API
+- :page_with_curl: Object-relational mapping with Entity Framework
+- 🗃️ Save data persistently in a SQL Server database
+- :bookmark_tabs: Entity Framework Code-First Migrations
+- :telephone_receiver: Use Postman to test your web service calls
+- :books: All CRUD operations (Create, Read, Update, Delete)
+- :computer: HTTP Request Methods GET, POST, PUT, DELETE
+  
+## ✔️ Técnicas e tecnologias utilizadas
+- ``.NET 5 Web API``
+- ``Entity Framework Core``
+- ``SQL Server``
+- ``Microsoft SQL Server Management Studio 18``
+- ``Postman``
+- ``RESTFull``
