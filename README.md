@@ -18,9 +18,9 @@
 - :computer: HTTP Request Methods GET, POST, PUT, DELETE
   
 ## ✔️ Técnicas e tecnologias utilizadas
-- ``.NET 5 Web API``
-- ``Entity Framework Core``
+- ``ASP.NET Core 5 Web Application``
+- ``Entity Framework Core 5.0.16``
 - ``SQL Server``
 - ``Microsoft SQL Server Management Studio 18``
 - ``Postman``
-- ``RESTFull``
+- ``API RESTFull``
